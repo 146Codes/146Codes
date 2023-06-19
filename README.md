@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @146Codes
-- 👀 I’m interested in coding FiveM Scripts!
-- 🌱 I’m currently learning Java, HTML, C#, Lua, Haskell
+- 👀 I’m interested in coding Games, FiveM Scripts and Backend Stuff!
+- 🌱 I’m currently learning C#, C++,Java, HTML, Lua, Haskell, x86 Assembly
 
 <!---
 146Codes/146Codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
