@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @146Codes
-- 👀 I’m interested in coding Games, FiveM Scripts and Backend Stuff!
 - 🌱 I’m currently learning C#, C++,Java, HTML, Lua, Haskell, x86 Assembly
 
 <!---
